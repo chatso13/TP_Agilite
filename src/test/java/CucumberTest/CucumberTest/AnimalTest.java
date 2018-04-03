@@ -1,7 +1,7 @@
 package CucumberTest.CucumberTest;
 
 import static org.junit.Assert.*;
-import cucumber.junit.Cucumber;
+import cucumber.api.junit.Cucumber;
 import CucumberTest.CucumberTest.Animal;
 
 import org.junit.After;

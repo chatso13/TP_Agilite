@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import cucumber.junit.Cucumber;
+import cucumber.api.junit.Cucumber;
 import CucumberTest.CucumberTest.Clan;
 import CucumberTest.CucumberTest.Pays;
 import junit.framework.TestCase;
